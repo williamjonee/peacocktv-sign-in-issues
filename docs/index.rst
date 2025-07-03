@@ -11,7 +11,7 @@ How to Fix Peacock TV Sign-In Issues? 📺
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tvpeacock.support
+   :target: https://tvpeacock.support/support.html
 _____________________
 
 Peacock TV has quickly become one of the most popular streaming platforms, thanks to its wide selection of movies, hit TV shows, live sports, and exclusive originals. But even the best services can experience occasional hiccups, and one of the most common complaints among users is related to Peacock TV Sign-In issues. Whether you're getting an unexpected error message or the app simply won’t log you in, these problems can be frustrating — especially when you’re just trying to relax and watch your favorite content.
